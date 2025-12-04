@@ -116,15 +116,8 @@ st.markdown(f"""
     }}
 
     /* Tombol */
-    /* Mengatur container pembungkus tombol agar isinya ada di tengah */
-    .stButton {
-        display: flex;
-        justify-content: center;
-    }
-
-    /* Mengatur tombol itu sendiri */
-    .stButton>button {
-        width: 60% !important; /* Ubah lebar jadi 60% (atau pixel misal 300px) */
+    .stButton>button {{
+        width: 100%;
         height: 70px;
         font-size: 22px;
         font-weight: bold;
@@ -132,13 +125,6 @@ st.markdown(f"""
         background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
         color: white;
         border: none;
-        margin-top: 20px; /* Memberi jarak sedikit dari atas */
-    }
-    
-    .stButton>button:hover { 
-        transform: scale(1.05); 
-        filter: brightness(1.2); 
-    }
     }}
     .stButton>button:hover {{ transform: scale(1.02); filter: brightness(1.2); }}
     
