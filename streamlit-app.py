@@ -182,8 +182,7 @@ def main():
             # --- TAMPILAN TERSEGEL (DIBUNGKUS KOTAK) ---
             st.markdown("""
             <div class='result-container'>
-                <div style='text-align: center; font-siz
-                e: 100px;'>🔒</div>
+                <div style='text-align: center; font-size: 100px;'>🔒</div>
                 <div class='medium-font'>SUARA TERSEGEL</div>
             </div>
             """, unsafe_allow_html=True)
