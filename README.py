@@ -141,7 +141,7 @@ if 'is_revealed' not in st.session_state:
 def main():
     st.image("Voterastics.png")
     
-    df = load_data('votes (1).json')
+    df = load_data('votes.json')
     if df is None:
         st.error("File 'votes (1).json' tidak ditemukan!")
         st.stop()
