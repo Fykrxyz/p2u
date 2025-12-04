@@ -1,0 +1,66 @@
+[
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-01T03:03:26.867Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-02T04:09:32.569Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-03T02:53:49.674Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-03T04:14:26.223Z"
+  },
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-03T04:26:21.931Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-03T06:06:30.116Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-03T07:46:57.396Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-04T00:40:50.154Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-04T02:04:32.173Z"
+  },
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-04T02:30:15.054Z"
+  },
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-04T02:48:49.172Z"
+  },
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-04T05:41:52.461Z"
+  },
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-04T06:18:51.711Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-04T06:35:25.447Z"
+  },
+  {
+    "candidate": "2",
+    "timestamp": "2025-12-04T07:00:18.301Z"
+  },
+  {
+    "candidate": "1",
+    "timestamp": "2025-12-04T07:46:04.467Z"
+  }
+]
